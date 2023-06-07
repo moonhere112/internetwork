@@ -65,7 +65,7 @@ body {
         
         
         
-        <li><a href="jiankang.html">点击进入健康上报系统登陆界面</a></li>
+        <li><a href="jiankang.html" style="color: #ddd;text-decoration: none;">点击进入健康上报系统登陆界面</a></li>
         
      
   
