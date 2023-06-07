@@ -52,7 +52,7 @@ body {
     </div>
     
     <div class="avatar">
-      <img src="imageh.jpg" alt="用户头像">
+    
     </div>
     
     <div class="details">
