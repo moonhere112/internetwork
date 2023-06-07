@@ -8,7 +8,7 @@
 </head>
  <style>
 body {
-  background: url('zh1.jpg') no-repeat center center fixed;
+  background: url('001.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 .user-info {
